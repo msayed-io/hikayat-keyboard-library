@@ -384,5 +384,346 @@
     "status": "not_available_from_board_html",
     "details": "Pinterest exposed poster/image CDN URLs in the authenticated board HTML, but did not expose downloadable MP4 URLs. The original pin URLs and poster assets are preserved for a later authenticated video export.",
     "video_directory": "assets/videos/"
+  },
+  "curated_assets": [
+    {
+      "file": "assets/images/curated/curated_01_622024330c2f3ad4816786bae1787067.jpg",
+      "type": "image",
+      "width": 1328,
+      "height": 747,
+      "bytes": 283292,
+      "sha256": "ab9200ce8bad1a60132269bf8a92b0bd06aacbc21d92e70c1aa6f514e178c4b1",
+      "source_url": "https://i.pinimg.com/originals/62/20/24/622024330c2f3ad4816786bae1787067.jpg",
+      "search_query": "cinematic nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_02_7045a5d2381cc470ced04eb6a6db075d.jpg",
+      "type": "image",
+      "width": 1249,
+      "height": 700,
+      "bytes": 167600,
+      "sha256": "c36634f69d66c5a082d620f2ed3a98fd8f4b101f6d086206fc7cfc1e0f8354d4",
+      "source_url": "https://i.pinimg.com/originals/70/45/a5/7045a5d2381cc470ced04eb6a6db075d.jpg",
+      "search_query": "cinematic nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_03_4d5ef94f9a038da39c34db143e5b98e0.jpg",
+      "type": "image",
+      "width": 735,
+      "height": 490,
+      "bytes": 65982,
+      "sha256": "da9190be24a33008d52d810e6dbb4e2ba252358a0e8f7afaa8e0bbf424a97dba",
+      "source_url": "https://i.pinimg.com/736x/4d/5e/f9/4d5ef94f9a038da39c34db143e5b98e0.jpg",
+      "search_query": "cinematic nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_04_fda7c7db87bf5bbfb26ac9d9ad599c49.jpg",
+      "type": "image",
+      "width": 3000,
+      "height": 1987,
+      "bytes": 960289,
+      "sha256": "8b5d0fdd41d141e8accea05321eb37facf66a8528b4ac716c2b6c15acddc0b6a",
+      "source_url": "https://i.pinimg.com/originals/fd/a7/c7/fda7c7db87bf5bbfb26ac9d9ad599c49.jpg",
+      "search_query": "cinematic nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_05_6ab2cbc74e096674cbe9a56f4ff6f25b.jpg",
+      "type": "image",
+      "width": 2048,
+      "height": 1366,
+      "bytes": 578332,
+      "sha256": "f38a59417e2188e4434d60d44e747328e351ef7707a4774098973eb1a0d80aca",
+      "source_url": "https://i.pinimg.com/originals/6a/b2/cb/6ab2cbc74e096674cbe9a56f4ff6f25b.jpg",
+      "search_query": "cinematic nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_06_a6bd4db7ee7053689bd971b36cbcd1ef.jpg",
+      "type": "image",
+      "width": 1600,
+      "height": 897,
+      "bytes": 196575,
+      "sha256": "c61c1a22a42359e97fa2b3dff0c9e0bae1df8d7c01a0f142a39ee65fd1069b74",
+      "source_url": "https://i.pinimg.com/originals/a6/bd/4d/a6bd4db7ee7053689bd971b36cbcd1ef.jpg",
+      "search_query": "cinematic nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_07_c3c77155748f15ffee61cbc1fe9705d6.jpg",
+      "type": "image",
+      "width": 735,
+      "height": 412,
+      "bytes": 58743,
+      "sha256": "1af3fae47506aa3bad598a2186fd32e060dee485a562d5b0e1f58aeac2e68777",
+      "source_url": "https://i.pinimg.com/736x/c3/c7/71/c3c77155748f15ffee61cbc1fe9705d6.jpg",
+      "search_query": "cinematic nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_08_53a490c2e15847f5f9dbe9ea3b29e654.jpg",
+      "type": "image",
+      "width": 1199,
+      "height": 774,
+      "bytes": 132585,
+      "sha256": "acb8ec0e69e1572be59f6bad405cce623bdec5c38fb065a8d4467902c17eaa64",
+      "source_url": "https://i.pinimg.com/originals/53/a4/90/53a490c2e15847f5f9dbe9ea3b29e654.jpg",
+      "search_query": "cinematic nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_09_83ce63ac59d8f2b4453894b2eaed1b08.jpg",
+      "type": "image",
+      "width": 1500,
+      "height": 908,
+      "bytes": 247762,
+      "sha256": "dcd96a12f36186d5638bef617e1b4e4f6ef18b637a70b700fc42d569c91fc09b",
+      "source_url": "https://i.pinimg.com/originals/83/ce/63/83ce63ac59d8f2b4453894b2eaed1b08.jpg",
+      "search_query": "cinematic nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_10_48b7c056b0d1e65221de13716ca29d40.jpg",
+      "type": "image",
+      "width": 736,
+      "height": 414,
+      "bytes": 54697,
+      "sha256": "72fdf9789eabdd2d8728351cb0ee727a97c4ba4ed358d0a674e5414c4b696e2a",
+      "source_url": "https://i.pinimg.com/originals/48/b7/c0/48b7c056b0d1e65221de13716ca29d40.jpg",
+      "search_query": "cinematic nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_11_077655d66a8e291b42b1540b07eac7c6.jpg",
+      "type": "image",
+      "width": 749,
+      "height": 421,
+      "bytes": 92047,
+      "sha256": "188a0694c4474c3d29c69d86a02d9d928ad582d5b893c8da35a5c0111dd5205c",
+      "source_url": "https://i.pinimg.com/originals/07/76/55/077655d66a8e291b42b1540b07eac7c6.jpg",
+      "search_query": "cinematic nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_12_9706b47817550bb4d0dd6248962a621e.jpg",
+      "type": "image",
+      "width": 1200,
+      "height": 675,
+      "bytes": 71005,
+      "sha256": "f5465cef9a57b67d7c3e323ef33fbe1e14a2692a5e675b54025a8476aa9c365b",
+      "source_url": "https://i.pinimg.com/originals/97/06/b4/9706b47817550bb4d0dd6248962a621e.jpg",
+      "search_query": "cinematic nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_13_d128075c58738f2ade425a5a8edbed1d.jpg",
+      "type": "image",
+      "width": 2675,
+      "height": 1808,
+      "bytes": 812471,
+      "sha256": "82ee7ba5ae7481a20a905eb8146e22445cb81297543fd04526101ffe1361aff3",
+      "source_url": "https://i.pinimg.com/originals/d1/28/07/d128075c58738f2ade425a5a8edbed1d.jpg",
+      "search_query": "cinematic nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_14_d6f30f6c57b4ac6d1038ecb634e53095.jpg",
+      "type": "image",
+      "width": 736,
+      "height": 414,
+      "bytes": 70186,
+      "sha256": "f35ef3e4b0bbcd07c7690261f627698a598ec7ab412dea1038991d81740a7c2a",
+      "source_url": "https://i.pinimg.com/originals/d6/f3/0f/d6f30f6c57b4ac6d1038ecb634e53095.jpg",
+      "search_query": "cinematic nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_15_4397974050003333c70ab4006e8d2396.jpg",
+      "type": "image",
+      "width": 1302,
+      "height": 736,
+      "bytes": 196380,
+      "sha256": "d2a721312465081b0c2f333a9b58cbe2aadf810fc1c5aa3a028068ace73c1890",
+      "source_url": "https://i.pinimg.com/originals/43/97/97/4397974050003333c70ab4006e8d2396.jpg",
+      "search_query": "anime peaceful nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_16_b3be86af376edbb6f61043c80e3df3ab.jpg",
+      "type": "image",
+      "width": 735,
+      "height": 413,
+      "bytes": 101245,
+      "sha256": "c67e685d54aa0f29060c617f96b930e15b2067c859c799016c02bb73697940d9",
+      "source_url": "https://i.pinimg.com/originals/b3/be/86/b3be86af376edbb6f61043c80e3df3ab.jpg",
+      "search_query": "anime peaceful nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_17_463038d896f87fb90a91866bce0612f2.jpg",
+      "type": "image",
+      "width": 735,
+      "height": 412,
+      "bytes": 72457,
+      "sha256": "3a39c9f848254341b5cbe27d43b00ee94d6b35fdc4299be27dfcc763098e13ed",
+      "source_url": "https://i.pinimg.com/originals/46/30/38/463038d896f87fb90a91866bce0612f2.jpg",
+      "search_query": "anime peaceful nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_18_07e7d628f99506f2923529b481937b13.jpg",
+      "type": "image",
+      "width": 1200,
+      "height": 675,
+      "bytes": 94161,
+      "sha256": "f326164dfede0853d70cc82cbddb7ae1e733be8ef4e7c74310bf4fbf6a96d67d",
+      "source_url": "https://i.pinimg.com/originals/07/e7/d6/07e7d628f99506f2923529b481937b13.jpg",
+      "search_query": "anime peaceful nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_19_ded53f0f51047a7686808d3eb4b4e143.jpg",
+      "type": "image",
+      "width": 1200,
+      "height": 675,
+      "bytes": 189836,
+      "sha256": "2af7d9a7d3f2a35ddb60aea3ae39278d368231a8ffe8adb606d84335893b4552",
+      "source_url": "https://i.pinimg.com/originals/de/d5/3f/ded53f0f51047a7686808d3eb4b4e143.jpg",
+      "search_query": "anime peaceful nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_20_d55ab61a3079e7e0184f2c259321659d.jpg",
+      "type": "image",
+      "width": 736,
+      "height": 412,
+      "bytes": 75586,
+      "sha256": "9963c62ef414a6a0992f96b4ebf1a6d4eb14d9eca40da46107e1fe734f149f60",
+      "source_url": "https://i.pinimg.com/originals/d5/5a/b6/d55ab61a3079e7e0184f2c259321659d.jpg",
+      "search_query": "anime peaceful nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_21_833f8e595823117ce1ac064ad0f9b294.jpg",
+      "type": "image",
+      "width": 1200,
+      "height": 675,
+      "bytes": 61179,
+      "sha256": "b83c0da855e55c59dc48e91671342bea45b92bd0a88a9926ec005cdd5ea4d991",
+      "source_url": "https://i.pinimg.com/originals/83/3f/8e/833f8e595823117ce1ac064ad0f9b294.jpg",
+      "search_query": "anime peaceful nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_22_a01d64ec8b7b5f468d7ca02cda195afc.jpg",
+      "type": "image",
+      "width": 734,
+      "height": 411,
+      "bytes": 52473,
+      "sha256": "863dd12e065263b6b1035b980faeecc01c4be6727bce4a09a388bb81c4afe18e",
+      "source_url": "https://i.pinimg.com/originals/a0/1d/64/a01d64ec8b7b5f468d7ca02cda195afc.jpg",
+      "search_query": "anime peaceful nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_23_1503f4211249ade115dd7c54580437bb.jpg",
+      "type": "image",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 282604,
+      "sha256": "1e64cbb6c4ec6fec3ad1f5369bc29468816ef74b63f9328668c3578350c050fa",
+      "source_url": "https://i.pinimg.com/originals/15/03/f4/1503f4211249ade115dd7c54580437bb.jpg",
+      "search_query": "anime peaceful nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_24_f1da41cf6703bf6a12c4b7c79f7cde2b.jpg",
+      "type": "image",
+      "width": 736,
+      "height": 414,
+      "bytes": 27244,
+      "sha256": "8bd0dc81bef2a07ccd454337e1bbaa580d92aa790e56f86c8c4fb20cb0aac327",
+      "source_url": "https://i.pinimg.com/originals/f1/da/41/f1da41cf6703bf6a12c4b7c79f7cde2b.jpg",
+      "search_query": "anime peaceful nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_25_a1ec89e3fb0231ec1eeebd3391f1af8f.jpg",
+      "type": "image",
+      "width": 736,
+      "height": 414,
+      "bytes": 83699,
+      "sha256": "443b271d1ae90a1750d24c5abdf7449365802140b8ba23f4345e65a7d9e758a4",
+      "source_url": "https://i.pinimg.com/736x/a1/ec/89/a1ec89e3fb0231ec1eeebd3391f1af8f.jpg",
+      "search_query": "anime peaceful nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_26_3f9ec05db6c6f4fba20a02d58080da51.jpg",
+      "type": "image",
+      "width": 1920,
+      "height": 1080,
+      "bytes": 332678,
+      "sha256": "be6453914ade7dd4dd3edc2eb2c1b9b9330e8fa916632aecd1a9fd01c9a86d6b",
+      "source_url": "https://i.pinimg.com/originals/3f/9e/c0/3f9ec05db6c6f4fba20a02d58080da51.jpg",
+      "search_query": "anime peaceful nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_27_b3663d35bb8d1e8af223795cdf278821.jpg",
+      "type": "image",
+      "width": 736,
+      "height": 414,
+      "bytes": 72535,
+      "sha256": "fc87d995f75696defac41a45be743a1501360736a560b56bcf9fb20b861314b1",
+      "source_url": "https://i.pinimg.com/originals/b3/66/3d/b3663d35bb8d1e8af223795cdf278821.jpg",
+      "search_query": "anime peaceful nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_28_41b65a83c5334cc7eee182e130da632b.jpg",
+      "type": "image",
+      "width": 1308,
+      "height": 736,
+      "bytes": 137503,
+      "sha256": "15cd0f505229becaeaa1f993bb8061788bf06ffade07e8d48b07e6a7086c1b14",
+      "source_url": "https://i.pinimg.com/originals/41/b6/5a/41b65a83c5334cc7eee182e130da632b.jpg",
+      "search_query": "anime peaceful nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_29_f0fdfcb609027965fef52d0b604c1d66.jpg",
+      "type": "image",
+      "width": 2047,
+      "height": 1150,
+      "bytes": 362591,
+      "sha256": "dc5ff709f92f085bd06310c12a540b888119fe17a8fa9a31de3ae3e28516669b",
+      "source_url": "https://i.pinimg.com/originals/f0/fd/fc/f0fdfcb609027965fef52d0b604c1d66.jpg",
+      "search_query": "anime peaceful nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_30_6d30c319fa796b795c9421cfb42ef515.jpg",
+      "type": "image",
+      "width": 1200,
+      "height": 681,
+      "bytes": 102656,
+      "sha256": "8cf58693ef93dd1b21f492c3f4828e39ae2c519dd0e1159cb281f73a03d3c0c6",
+      "source_url": "https://i.pinimg.com/originals/6d/30/c3/6d30c319fa796b795c9421cfb42ef515.jpg",
+      "search_query": "anime peaceful nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_31_410bfb25db71448d4450e21d5dd26071.jpg",
+      "type": "image",
+      "width": 736,
+      "height": 413,
+      "bytes": 67807,
+      "sha256": "46f0d12bfb5f0bb286f3c7bfe374f44a1122625372faae7aec89104813183ce5",
+      "source_url": "https://i.pinimg.com/originals/41/0b/fb/410bfb25db71448d4450e21d5dd26071.jpg",
+      "search_query": "anime peaceful nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_32_9d2b596406f0fd82dadc85c039e6fdaf.jpg",
+      "type": "image",
+      "width": 1200,
+      "height": 675,
+      "bytes": 135717,
+      "sha256": "f24c77680a7604b6c8d11643ebd65fc2bc18865ee1245f5478d2987389471830",
+      "source_url": "https://i.pinimg.com/originals/9d/2b/59/9d2b596406f0fd82dadc85c039e6fdaf.jpg",
+      "search_query": "anime peaceful nature landscape wallpaper 16:9"
+    },
+    {
+      "file": "assets/images/curated/curated_33_85b04e9e07a8541d94e83a9b714fa62f.jpg",
+      "type": "image",
+      "width": 735,
+      "height": 418,
+      "bytes": 79175,
+      "sha256": "c9d233e45ae3b70453a7f2285db52da2eb5243894eff6332d6077b6edcb416a9",
+      "source_url": "https://i.pinimg.com/736x/85/b0/4e/85b04e9e07a8541d94e83a9b714fa62f.jpg",
+      "search_query": "anime peaceful nature landscape wallpaper 16:9"
+    }
+  ],
+  "curated_summary": {
+    "count": 33,
+    "orientation": "landscape",
+    "min_aspect_ratio": 1.45,
+    "search_queries": [
+      "cinematic nature landscape wallpaper 16:9",
+      "anime peaceful nature landscape wallpaper 16:9"
+    ]
   }
 }
