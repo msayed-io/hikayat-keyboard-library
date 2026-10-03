@@ -5,31 +5,30 @@ A production-ready media library for the **Hikayat Keyboard** wallpaper applicat
 ## Source
 
 - Pinterest board: [كيبورد دار الحكايات](https://www.pinterest.com/mohamed01140251843sayed/%D9%83%D9%8A%D8%A8%D9%88%D8%B1%D8%AF-%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D9%83%D8%A7%D9%8A%D8%A7%D8%AA/)
-- Board size at initial extraction: **29 pins**
 - Machine-readable catalog: [`metadata/manifest.json`](metadata/manifest.json)
-- Curated visual preview: [`curated-preview.jpg`](curated-preview.jpg)
+- Current visual preview: [`curated-preview.jpg`](curated-preview.jpg)
 
-## Visual style
+## Current curated collection
 
-The curated set follows the visual language of the original library:
+The previous curated collection containing anime/illustrated material was removed and replaced with **30 new landscape images** selected for this brief:
 
-- Wide landscape compositions, suitable for wallpaper cropping and keyboard backgrounds
-- Nature-led scenes: forests, lakes, mountains, meadows, mist, sunsets, and quiet outdoor moments
-- Cinematic light: golden hour, soft haze, sunbeams, reflective water, and calm blue/green palettes
-- A balanced mix of photographic landscapes and peaceful anime/illustrated scenes
-- Portrait and narrow vertical pins are excluded; curated images use an aspect ratio of at least **1.45:1**
+- Realistic-looking nature scenes only: mountains, lakes, rivers, waterfalls, forests, valleys, deserts, coastlines, and sunsets
+- No girls, women, visible people, anime characters, cartoons, or illustrations in the replacement batch
+- Landscape orientation only, minimum aspect ratio **1.45:1**
+- High-resolution CDN variant selected where Pinterest exposed one; minimum downloaded width is **700px**
+- Clear categories are represented in the manifest through the source-search fields and file ordering
 
 ## Repository layout
 
 ```text
 assets/
   images/            Original board assets
-  images/curated/    33 additional Pinterest-discovered landscape images
+  images/curated/    30 replacement realistic landscape images
   videos/            Reserved for original video files
 metadata/
   manifest.json      Machine-readable catalog, checksums, and source URLs
   pin_ids.txt        Source Pinterest pin IDs
-curated-preview.jpg  Visual preview sheet for the curated batch
+curated-preview.jpg  Visual preview sheet for the current curated batch
 ```
 
 ## App integration
@@ -44,10 +43,10 @@ Each image has a SHA-256 checksum so the client can verify a downloaded file bef
 
 ## Quality and extraction notes
 
-- Original board images were downloaded using the best available Pinterest CDN variant.
-- The curated batch contains **33 additional horizontal images**: 14 cinematic landscape results and 19 peaceful anime/illustrated landscape results.
-- Search sources used: `cinematic nature landscape wallpaper 16:9` and `anime peaceful nature landscape wallpaper 16:9`.
-- Pinterest source URLs are retained in the manifest for attribution and auditing.
+- The original board assets remain under `assets/images/`.
+- The `assets/images/curated/` directory is the cleaned replacement batch; the former 33-image mixed realistic/anime batch is no longer present there.
+- Pinterest CDN URLs and search provenance are retained in the manifest for auditing.
+- “Realistic” here means a natural photographic/photorealistic visual appearance; Pinterest source provenance should still be reviewed before public redistribution.
 - Original MP4 URLs were not exposed by Pinterest during the earlier board extraction; the `assets/videos/` directory remains ready for authenticated video exports.
 
 ## Usage rights
