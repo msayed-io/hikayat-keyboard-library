@@ -386,619 +386,427 @@
     "video_directory": "assets/videos/"
   },
   "curated_summary": {
-    "count": 30,
+    "count": 20,
+    "total_curated_in_repo": 50,
     "orientation": "landscape",
     "min_aspect_ratio": 1.45,
-    "style": "realistic nature photography",
+    "style": "real photographic landscapes",
+    "categories": [
+      "coast",
+      "forest",
+      "mountains",
+      "lakes",
+      "rivers",
+      "waterfalls",
+      "desert",
+      "sunrise"
+    ],
     "excluded": [
       "cartoon",
       "anime",
       "illustration",
-      "people",
+      "visible people",
       "girls",
       "women"
+    ],
+    "provenance": [
+      "Pinterest authenticated search results from user browser",
+      "Wikimedia Commons photographic files"
     ]
   },
   "curated_assets": [
     {
-      "file": "assets/images/curated/realistic_01_81e7612feb580314b01cbce6f907c0b8.jpg",
+      "file": "assets/images/curated/pinterest_01_e64fc17c0f368e3917da5a54641a30bd.jpg",
       "type": "image",
-      "width": 1920,
+      "width": 2500,
+      "height": 1617,
+      "bytes": 655897,
+      "sha256": "5e247f7cb6ca213c43c2be9c62ff0797935cb452be6d3ee82f33efc602665be9",
+      "source_url": "https://i.pinimg.com/originals/e6/4f/c1/e64fc17c0f368e3917da5a54641a30bd.jpg",
+      "source_type": "Pinterest authenticated search",
+      "category": "mountains/lakes/sunrise",
+      "filters": [
+        "landscape",
+        "photographic",
+        "no visible people",
+        "no cartoon",
+        "no illustration"
+      ],
+      "search_query": "professional landscape photography 4k wide no people"
+    },
+    {
+      "file": "assets/images/curated/pinterest_02_6a403b7c382238de027c51d155b1bde9.jpg",
+      "type": "image",
+      "width": 1620,
       "height": 1080,
-      "bytes": 543653,
-      "sha256": "e130a838286de48dc78f1f205590050a470f665787c509460b5bc89ea4a6e849",
-      "source_url": "https://i.pinimg.com/736x/81/e7/61/81e7612feb580314b01cbce6f907c0b8.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
+      "bytes": 344495,
+      "sha256": "8923b184c0466b3397598b625cc40f177f8f3c7211eb3aaad05114841370e517",
+      "source_url": "https://i.pinimg.com/originals/6a/40/3b/6a403b7c382238de027c51d155b1bde9.jpg",
+      "source_type": "Pinterest authenticated search",
+      "category": "mountains/lakes/sunrise",
       "filters": [
         "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
+        "photographic",
+        "no visible people",
+        "no cartoon",
+        "no illustration"
+      ],
+      "search_query": "professional landscape photography 4k wide no people"
     },
     {
-      "file": "assets/images/curated/realistic_02_e362509565f0cfbafa09a626c78876f8.jpg",
+      "file": "assets/images/curated/pinterest_03_bf2c4c5be8e1ace220777ee3ac418993.jpg",
       "type": "image",
-      "width": 1376,
-      "height": 768,
-      "bytes": 144242,
-      "sha256": "08afc2961b717f80ae2c097ce19538803d5a43d4fa2bb3b1479bfb551bfc8fb7",
-      "source_url": "https://i.pinimg.com/736x/e3/62/50/e362509565f0cfbafa09a626c78876f8.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
+      "width": 2048,
+      "height": 1367,
+      "bytes": 445107,
+      "sha256": "9031b309ea20fd12a4b368daad1cd8c6fde6053f4e3d835f7d64d898998fa7af",
+      "source_url": "https://i.pinimg.com/originals/bf/2c/4c/bf2c4c5be8e1ace220777ee3ac418993.jpg",
+      "source_type": "Pinterest authenticated search",
+      "category": "mountains/lakes/sunrise",
       "filters": [
         "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
+        "photographic",
+        "no visible people",
+        "no cartoon",
+        "no illustration"
+      ],
+      "search_query": "professional landscape photography 4k wide no people"
     },
     {
-      "file": "assets/images/curated/realistic_03_a6bd4db7ee7053689bd971b36cbcd1ef.jpg",
+      "file": "assets/images/curated/pinterest_04_8d3b479dd17b16a86fb5c860f2d1b043.jpg",
       "type": "image",
-      "width": 1600,
-      "height": 897,
-      "bytes": 196575,
-      "sha256": "c61c1a22a42359e97fa2b3dff0c9e0bae1df8d7c01a0f142a39ee65fd1069b74",
-      "source_url": "https://i.pinimg.com/736x/a6/bd/4d/a6bd4db7ee7053689bd971b36cbcd1ef.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
+      "width": 2048,
+      "height": 1153,
+      "bytes": 274264,
+      "sha256": "928e0985c9fffcf31c8b7d23a9e750aa85f1b4d8b2c3a3b00c98f884b042772e",
+      "source_url": "https://i.pinimg.com/originals/8d/3b/47/8d3b479dd17b16a86fb5c860f2d1b043.jpg",
+      "source_type": "Pinterest authenticated search",
+      "category": "mountains/lakes/sunrise",
       "filters": [
         "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
-    },
-    {
-      "file": "assets/images/curated/realistic_04_fda7c7db87bf5bbfb26ac9d9ad599c49.jpg",
-      "type": "image",
-      "width": 3000,
-      "height": 1987,
-      "bytes": 960289,
-      "sha256": "8b5d0fdd41d141e8accea05321eb37facf66a8528b4ac716c2b6c15acddc0b6a",
-      "source_url": "https://i.pinimg.com/736x/fd/a7/c7/fda7c7db87bf5bbfb26ac9d9ad599c49.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
+        "photographic",
+        "no visible people",
+        "no cartoon",
+        "no illustration"
       ],
-      "filters": [
-        "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
+      "search_query": "professional landscape photography 4k wide no people"
     },
     {
-      "file": "assets/images/curated/realistic_05_83ce63ac59d8f2b4453894b2eaed1b08.jpg",
-      "type": "image",
-      "width": 1500,
-      "height": 908,
-      "bytes": 247762,
-      "sha256": "dcd96a12f36186d5638bef617e1b4e4f6ef18b637a70b700fc42d569c91fc09b",
-      "source_url": "https://i.pinimg.com/736x/83/ce/63/83ce63ac59d8f2b4453894b2eaed1b08.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
-      "filters": [
-        "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
-    },
-    {
-      "file": "assets/images/curated/realistic_06_31771675d2543e14f918d94940095711.jpg",
-      "type": "image",
-      "width": 735,
-      "height": 490,
-      "bytes": 111993,
-      "sha256": "c70e334c3e7c5ddac7b33f4059781b1e2d1a2f8879a4f28099a5c6ae60468ff0",
-      "source_url": "https://i.pinimg.com/736x/31/77/16/31771675d2543e14f918d94940095711.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
-      "filters": [
-        "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
-    },
-    {
-      "file": "assets/images/curated/realistic_07_d7ad5c54ace5979d12e6221327022d76.jpg",
-      "type": "image",
-      "width": 1600,
-      "height": 896,
-      "bytes": 256807,
-      "sha256": "2bb7df2f527b47894cf8aa650187d3c10a2a3e0ce2f1c8aa3e9ca0fce567edfa",
-      "source_url": "https://i.pinimg.com/736x/d7/ad/5c/d7ad5c54ace5979d12e6221327022d76.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
-      "filters": [
-        "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
-    },
-    {
-      "file": "assets/images/curated/realistic_08_de356515def6e4607a7719578c25d51f.jpg",
-      "type": "image",
-      "width": 735,
-      "height": 490,
-      "bytes": 108486,
-      "sha256": "87e01691fd2f03af32e256490fa27272125138f23fa4f2ba54c54df9481077f8",
-      "source_url": "https://i.pinimg.com/736x/de/35/65/de356515def6e4607a7719578c25d51f.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
-      "filters": [
-        "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
-    },
-    {
-      "file": "assets/images/curated/realistic_09_a1cc96e8e9c3fbc1e6a9cec8eabb96d5.jpg",
-      "type": "image",
-      "width": 1749,
-      "height": 980,
-      "bytes": 323516,
-      "sha256": "cce4ba283e883f63de795bcd77d8772d2a8fec85f1b83677c0df6050fb9efa70",
-      "source_url": "https://i.pinimg.com/736x/a1/cc/96/a1cc96e8e9c3fbc1e6a9cec8eabb96d5.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
-      "filters": [
-        "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
-    },
-    {
-      "file": "assets/images/curated/realistic_10_93b1e5e7b60f370d255114a83975f134.jpg",
-      "type": "image",
-      "width": 1440,
-      "height": 960,
-      "bytes": 180711,
-      "sha256": "ebc2ac390b80218acc447772d38e20f012b3b47b8ad10fa03046d5d67e39fae4",
-      "source_url": "https://i.pinimg.com/736x/93/b1/e5/93b1e5e7b60f370d255114a83975f134.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
-      "filters": [
-        "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
-    },
-    {
-      "file": "assets/images/curated/realistic_11_9ff6858e385975c92b9b7ff9850cef59.jpg",
-      "type": "image",
-      "width": 2560,
-      "height": 1440,
-      "bytes": 877023,
-      "sha256": "53e906597f654130fbbb0c88f0bfb06cc678537a53925469e0eb5a46da61ea28",
-      "source_url": "https://i.pinimg.com/736x/9f/f6/85/9ff6858e385975c92b9b7ff9850cef59.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
-      "filters": [
-        "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
-    },
-    {
-      "file": "assets/images/curated/realistic_12_e4101cb5fe042c8a3ba8e33b687d0c43.jpg",
-      "type": "image",
-      "width": 1365,
-      "height": 768,
-      "bytes": 173656,
-      "sha256": "93207e0dbcb700b48b4d03113136d0059fb0926970f921e3cd5e41545ae26d3b",
-      "source_url": "https://i.pinimg.com/736x/e4/10/1c/e4101cb5fe042c8a3ba8e33b687d0c43.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
-      "filters": [
-        "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
-    },
-    {
-      "file": "assets/images/curated/realistic_13_c7cb73c6f1cf3b859aef2226e4dec10a.jpg",
-      "type": "image",
-      "width": 1536,
-      "height": 960,
-      "bytes": 344589,
-      "sha256": "82e7b6e97760fabcef67a6e1f637a1bf935cfef2fbd5f82c2204cb233cd93beb",
-      "source_url": "https://i.pinimg.com/736x/c7/cb/73/c7cb73c6f1cf3b859aef2226e4dec10a.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
-      "filters": [
-        "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
-    },
-    {
-      "file": "assets/images/curated/realistic_14_c4337f5f38fe8fd8262318bd969d2775.jpg",
-      "type": "image",
-      "width": 1797,
-      "height": 980,
-      "bytes": 422174,
-      "sha256": "2248133210a4d2695a065307b2dd393aa95dfa33a3c4c4725a4f4662f56362ff",
-      "source_url": "https://i.pinimg.com/736x/c4/33/7f/c4337f5f38fe8fd8262318bd969d2775.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
-      "filters": [
-        "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
-    },
-    {
-      "file": "assets/images/curated/realistic_15_ecbcee3d00fcb42c3b1b54d8378a269d.jpg",
+      "file": "assets/images/curated/pinterest_05_ddaaa28914b6f167550b608d13717c58.jpg",
       "type": "image",
       "width": 1200,
       "height": 675,
-      "bytes": 157398,
-      "sha256": "3cd21d2cddd6c8564de2f64fa7a2f42fae8e1875bcdd8f3401d232ecd740f51c",
-      "source_url": "https://i.pinimg.com/736x/ec/bc/ee/ecbcee3d00fcb42c3b1b54d8378a269d.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
+      "bytes": 101308,
+      "sha256": "1e4e8753d44837a4b4197d8d97b949da63eca80a12e8abeae496d8f177cbbf3c",
+      "source_url": "https://i.pinimg.com/originals/dd/aa/a2/ddaaa28914b6f167550b608d13717c58.jpg",
+      "source_type": "Pinterest authenticated search",
+      "category": "mountains/lakes/sunrise",
       "filters": [
         "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
+        "photographic",
+        "no visible people",
+        "no cartoon",
+        "no illustration"
+      ],
+      "search_query": "professional landscape photography 4k wide no people"
     },
     {
-      "file": "assets/images/curated/realistic_16_a574bc734339dc4d31eb3d9168ffe367.jpg",
+      "file": "assets/images/curated/commons_06_e9c23c3813c7.jpg",
       "type": "image",
-      "width": 1200,
-      "height": 675,
-      "bytes": 182393,
-      "sha256": "d941eb034a209a93514a7b195a350dfe926290fb992cd6ee651704852e4c776b",
-      "source_url": "https://i.pinimg.com/736x/a5/74/bc/a574bc734339dc4d31eb3d9168ffe367.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
+      "width": 3840,
+      "height": 2560,
+      "bytes": 4239382,
+      "sha256": "60eadfba044918bc5d835b6b983960caae9c98897338e1eb0c56d68b2e484abc",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/6/6a/Land%27s_End_%28Cornwall%2C_UK%29%2C_Coast_Path_--_2013_--_1061.jpg/3840px-Land%27s_End_%28Cornwall%2C_UK%29%2C_Coast_Path_--_2013_--_1061.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_type": "Wikimedia Commons",
+      "category": "coast",
       "filters": [
         "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
+        "photographic",
+        "no visible people",
+        "no cartoon",
+        "no illustration"
+      ],
+      "commons_title": "File:Land's End (Cornwall, UK), Coast Path -- 2013 -- 1061.jpg",
+      "query": "coast landscape photography"
     },
     {
-      "file": "assets/images/curated/realistic_17_98337b84b4259574420a4b71b7f204dd.jpg",
+      "file": "assets/images/curated/commons_07_005b5d07badf.jpg",
       "type": "image",
-      "width": 1797,
-      "height": 980,
-      "bytes": 409408,
-      "sha256": "e9272cd0aae7ada06efe2e67ba601411e71f3bf3f1547549d5810f77820d7163",
-      "source_url": "https://i.pinimg.com/736x/98/33/7b/98337b84b4259574420a4b71b7f204dd.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
+      "width": 3840,
+      "height": 2560,
+      "bytes": 1907221,
+      "sha256": "f90c0f80e59817e3d79ab24874880c153666a3e904b317f48acfb83ed4394976",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/75/Land%27s_End_%28Cornwall%2C_UK%29%2C_Coast_Path_near_Sennen_Cove_--_2013_--_1.jpg/3840px-Land%27s_End_%28Cornwall%2C_UK%29%2C_Coast_Path_near_Sennen_Cove_--_2013_--_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_type": "Wikimedia Commons",
+      "category": "coast",
       "filters": [
         "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
+        "photographic",
+        "no visible people",
+        "no cartoon",
+        "no illustration"
+      ],
+      "commons_title": "File:Land's End (Cornwall, UK), Coast Path near Sennen Cove -- 2013 -- 1.jpg",
+      "query": "coast landscape photography"
     },
     {
-      "file": "assets/images/curated/realistic_18_cd5447a21b8ae30ed03935fad298b98e.jpg",
+      "file": "assets/images/curated/commons_08_e63ddc423473.jpg",
       "type": "image",
-      "width": 1797,
-      "height": 980,
-      "bytes": 447892,
-      "sha256": "ad58e6dbd8ea5a715d79af276db727efb6c21adf9b8b7f1816785f5d51a30506",
-      "source_url": "https://i.pinimg.com/736x/cd/54/47/cd5447a21b8ae30ed03935fad298b98e.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
+      "width": 3840,
+      "height": 2560,
+      "bytes": 2158640,
+      "sha256": "103b39f1322afd517ea7d4aeb4153e370b63d894a33773e5095662de0fc3759a",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/d/d7/Princetown_%28AU%29%2C_Port_Campbell_National_Park%2C_Twelve_Apostles_--_2019_--_0969.jpg/3840px-Princetown_%28AU%29%2C_Port_Campbell_National_Park%2C_Twelve_Apostles_--_2019_--_0969.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_type": "Wikimedia Commons",
+      "category": "coast",
       "filters": [
         "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
+        "photographic",
+        "no visible people",
+        "no cartoon",
+        "no illustration"
+      ],
+      "commons_title": "File:Princetown (AU), Port Campbell National Park, Twelve Apostles -- 2019 -- 0969.jpg",
+      "query": "coast landscape photography"
     },
     {
-      "file": "assets/images/curated/realistic_19_1168e5b9ed553a3b7342239a81643f49.jpg",
+      "file": "assets/images/curated/commons_09_324f9c36dbdb.jpg",
       "type": "image",
-      "width": 1200,
-      "height": 675,
-      "bytes": 125920,
-      "sha256": "9e4f760302882cc2b38610d26b8ab0f48405a375f095e2757fd4003151e5b482",
-      "source_url": "https://i.pinimg.com/736x/11/68/e5/1168e5b9ed553a3b7342239a81643f49.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
+      "width": 3840,
+      "height": 2560,
+      "bytes": 1489645,
+      "sha256": "7009b2e498778617ec8ce541f6d3c8282d047e4bc57f9db6c4a284d08c14e212",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/b6/Santorin_%28GR%29%2C_Exomytis%2C_Vlychada_Beach_--_2017_--_2999_%28bw%29.jpg/3840px-Santorin_%28GR%29%2C_Exomytis%2C_Vlychada_Beach_--_2017_--_2999_%28bw%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_type": "Wikimedia Commons",
+      "category": "coast",
       "filters": [
         "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
+        "photographic",
+        "no visible people",
+        "no cartoon",
+        "no illustration"
+      ],
+      "commons_title": "File:Santorin (GR), Exomytis, Vlychada Beach -- 2017 -- 2999 (bw).jpg",
+      "query": "coast landscape photography"
     },
     {
-      "file": "assets/images/curated/realistic_20_1e7843f1bf1a41770e8d5c0e69d272bb.jpg",
+      "file": "assets/images/curated/commons_10_4e94ac64039f.jpg",
       "type": "image",
-      "width": 1200,
-      "height": 675,
-      "bytes": 150948,
-      "sha256": "dab1065db5fae51e3a69180e28601bab1d55ee886fc1e25249e7a9f5dc22ba95",
-      "source_url": "https://i.pinimg.com/736x/1e/78/43/1e7843f1bf1a41770e8d5c0e69d272bb.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
+      "width": 3840,
+      "height": 2560,
+      "bytes": 4571165,
+      "sha256": "d205828e031681cb878167e100d2d5f48a83c8c46ab0289d99fb34fc0b4ea20e",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4e/Beech_Forest_%28AU%29%2C_Great_Otway_National_Park%2C_Beauchamp_Falls_--_2019_--_1271.jpg/3840px-Beech_Forest_%28AU%29%2C_Great_Otway_National_Park%2C_Beauchamp_Falls_--_2019_--_1271.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_type": "Wikimedia Commons",
+      "category": "forest",
       "filters": [
         "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
+        "photographic",
+        "no visible people",
+        "no cartoon",
+        "no illustration"
+      ],
+      "commons_title": "File:Beech Forest (AU), Great Otway National Park, Beauchamp Falls -- 2019 -- 1271.jpg",
+      "query": "forest landscape photography"
     },
     {
-      "file": "assets/images/curated/realistic_21_0a472a2f75491570dabbcd3136ba3df6.jpg",
+      "file": "assets/images/curated/commons_11_654362739b80.jpg",
       "type": "image",
-      "width": 1000,
-      "height": 684,
-      "bytes": 133896,
-      "sha256": "8e1213b8556b528520b5dc545e0af98d1ba2b9afea1d6ad4fafae8f73c1d6ed7",
-      "source_url": "https://i.pinimg.com/736x/0a/47/2a/0a472a2f75491570dabbcd3136ba3df6.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
+      "width": 3840,
+      "height": 2380,
+      "bytes": 3349189,
+      "sha256": "118905240c209f02ee3433ef07d794837990d80d7ec544030368821c7d1e7e4f",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/e/ef/D%C3%BClmen%2C_B%C3%B6rnste%2C_Waldweg_--_2015_--_4649.jpg/3840px-D%C3%BClmen%2C_B%C3%B6rnste%2C_Waldweg_--_2015_--_4649.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_type": "Wikimedia Commons",
+      "category": "forest",
       "filters": [
         "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
+        "photographic",
+        "no visible people",
+        "no cartoon",
+        "no illustration"
+      ],
+      "commons_title": "File:Dülmen, Börnste, Waldweg -- 2015 -- 4649.jpg",
+      "query": "forest landscape photography"
     },
     {
-      "file": "assets/images/curated/realistic_22_e53c6dbc80b6ec5d6249bde93af6d049.jpg",
+      "file": "assets/images/curated/commons_12_03eb6d669932.jpg",
       "type": "image",
-      "width": 735,
-      "height": 490,
-      "bytes": 67812,
-      "sha256": "47582f84bd6b98a05d1fd4b2ef3fb03aa32b132bec07ace8c2cf3c0332fa1821",
-      "source_url": "https://i.pinimg.com/736x/e5/3c/6d/e53c6dbc80b6ec5d6249bde93af6d049.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
+      "width": 3840,
+      "height": 2560,
+      "bytes": 2381456,
+      "sha256": "b963d13bca0cbf0c319ee7bac5b8ada40f22006cfd3c33ddb60deb86f157d698",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/7/76/D%C3%BClmen%2C_Umland_--_2014_--_7056.jpg/3840px-D%C3%BClmen%2C_Umland_--_2014_--_7056.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_type": "Wikimedia Commons",
+      "category": "forest",
       "filters": [
         "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
+        "photographic",
+        "no visible people",
+        "no cartoon",
+        "no illustration"
+      ],
+      "commons_title": "File:Dülmen, Umland -- 2014 -- 7056.jpg",
+      "query": "forest landscape photography"
     },
     {
-      "file": "assets/images/curated/realistic_23_0dc5dc3e48f2dc88cd430aee704fd662.jpg",
+      "file": "assets/images/curated/commons_13_9839cfa8b200.jpg",
       "type": "image",
-      "width": 900,
-      "height": 600,
-      "bytes": 86349,
-      "sha256": "014220d117ec6e5a5567c1fd9440409d179242ff1634fcfef32766a84e3c262c",
-      "source_url": "https://i.pinimg.com/736x/0d/c5/dc/0dc5dc3e48f2dc88cd430aee704fd662.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
+      "width": 3840,
+      "height": 2560,
+      "bytes": 3969686,
+      "sha256": "f217607ffa53972cb90b6240ea299ac2bf2347e7de6903d78040bdb71c6c44e7",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/2a/Waterfalls-forest-landscape_-_Virginia_-_ForestWander.jpg/3840px-Waterfalls-forest-landscape_-_Virginia_-_ForestWander.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_type": "Wikimedia Commons",
+      "category": "forest",
       "filters": [
         "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
+        "photographic",
+        "no visible people",
+        "no cartoon",
+        "no illustration"
+      ],
+      "commons_title": "File:Waterfalls-forest-landscape - Virginia - ForestWander.jpg",
+      "query": "forest landscape photography"
     },
     {
-      "file": "assets/images/curated/realistic_24_4244c809ddab18222ead564f2fe1cf3e.jpg",
+      "file": "assets/images/curated/commons_14_ef7bb5e2a928.jpg",
       "type": "image",
-      "width": 1344,
-      "height": 768,
-      "bytes": 26935,
-      "sha256": "035d003b71e7bb997b690ccc6f3541d16d3caa694e661467300349e14fc3a5dd",
-      "source_url": "https://i.pinimg.com/736x/42/44/c8/4244c809ddab18222ead564f2fe1cf3e.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
+      "width": 3840,
+      "height": 2595,
+      "bytes": 4512344,
+      "sha256": "fb6727a07021055b77dee73a15fe2008043c98367b85324920e518e04718b9cd",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/5/56/Wooden_staircase_steps_in_the_forest_of_Hallasan_Park_Eorimok_Trail_at_dusk_on_Jeju_Island_in_South_Korea.jpg/3840px-Wooden_staircase_steps_in_the_forest_of_Hallasan_Park_Eorimok_Trail_at_dusk_on_Jeju_Island_in_South_Korea.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_type": "Wikimedia Commons",
+      "category": "forest",
       "filters": [
         "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
+        "photographic",
+        "no visible people",
+        "no cartoon",
+        "no illustration"
+      ],
+      "commons_title": "File:Wooden staircase steps in the forest of Hallasan Park Eorimok Trail at dusk on Jeju Island in South Korea.jpg",
+      "query": "forest landscape photography"
     },
     {
-      "file": "assets/images/curated/realistic_25_e7708b81d4042c87ac69418eca261668.jpg",
+      "file": "assets/images/curated/commons_15_c86b6d86ea92.jpg",
       "type": "image",
-      "width": 735,
-      "height": 441,
-      "bytes": 60647,
-      "sha256": "a792a0f19ec95db27182a61da5eff0ebd4159da7ee820f8f593ecd05f4768828",
-      "source_url": "https://i.pinimg.com/736x/e7/70/8b/e7708b81d4042c87ac69418eca261668.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
+      "width": 3840,
+      "height": 2560,
+      "bytes": 1562418,
+      "sha256": "fd7fcaff194cd8d8b0ba039fa002693ba5b9c2180e1f06102c6f8a0545f9f961",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/4/4c/Autumn-mountain-lake-tree-reflections_-_West_Virginia_-_ForestWander.jpg/3840px-Autumn-mountain-lake-tree-reflections_-_West_Virginia_-_ForestWander.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_type": "Wikimedia Commons",
+      "category": "mountains/lakes",
       "filters": [
         "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
+        "photographic",
+        "no visible people",
+        "no cartoon",
+        "no illustration"
+      ],
+      "commons_title": "File:Autumn-mountain-lake-tree-reflections - West Virginia - ForestWander.jpg",
+      "query": "mountain lake landscape photography"
     },
     {
-      "file": "assets/images/curated/realistic_26_0495b95efe2b2ff60536853d725505d1.jpg",
+      "file": "assets/images/curated/commons_16_cbadb957ae5e.jpg",
       "type": "image",
-      "width": 1125,
-      "height": 735,
-      "bytes": 98451,
-      "sha256": "671f8cd0fc56159bd0463f418a1d3d54bcc30a45b98df791050621453ae9397b",
-      "source_url": "https://i.pinimg.com/736x/04/95/b9/0495b95efe2b2ff60536853d725505d1.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
+      "width": 3840,
+      "height": 2606,
+      "bytes": 2742411,
+      "sha256": "d5946f8dc5c86b648e3490c714999dddaad99dda6047fe2021818838fd3cfbcc",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/b/ba/Banff_National_Park_%28AB%2C_Canada%29%2C_Lake_Minnewanka_--_2022_--_2274.jpg/3840px-Banff_National_Park_%28AB%2C_Canada%29%2C_Lake_Minnewanka_--_2022_--_2274.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_type": "Wikimedia Commons",
+      "category": "mountains/lakes",
       "filters": [
         "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
+        "photographic",
+        "no visible people",
+        "no cartoon",
+        "no illustration"
+      ],
+      "commons_title": "File:Banff National Park (AB, Canada), Lake Minnewanka -- 2022 -- 2274.jpg",
+      "query": "mountain lake landscape photography"
     },
     {
-      "file": "assets/images/curated/realistic_27_400df46adc8b3d4a1d36dca3f16c07e8.jpg",
+      "file": "assets/images/curated/commons_17_a69ad6f1e139.jpg",
       "type": "image",
-      "width": 2728,
-      "height": 1537,
-      "bytes": 368461,
-      "sha256": "59fc917a39e6d1a3f96328b35f239ec28fcb31728001814e25db76591ac53dd8",
-      "source_url": "https://i.pinimg.com/736x/40/0d/f4/400df46adc8b3d4a1d36dca3f16c07e8.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
+      "width": 3840,
+      "height": 2560,
+      "bytes": 1319104,
+      "sha256": "360e3363934a8dacbe91104573b13109e1c44a08d384c11f49b701b52415d430",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/8/84/Lac_de_Montriond_06.jpg/3840px-Lac_de_Montriond_06.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_type": "Wikimedia Commons",
+      "category": "mountains/lakes",
       "filters": [
         "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
+        "photographic",
+        "no visible people",
+        "no cartoon",
+        "no illustration"
+      ],
+      "commons_title": "File:Lac de Montriond 06.jpg",
+      "query": "mountain lake landscape photography"
     },
     {
-      "file": "assets/images/curated/realistic_28_ad3553d44540ca07f28a41097d231263.jpg",
+      "file": "assets/images/curated/commons_18_06_84c7208907e8.jpg",
       "type": "image",
-      "width": 735,
-      "height": 417,
-      "bytes": 46095,
-      "sha256": "e3d4323c76b14ba0e3256c549a6e65c84cadfa343317fa9eb3d5c9387be263f8",
-      "source_url": "https://i.pinimg.com/736x/ad/35/53/ad3553d44540ca07f28a41097d231263.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
+      "width": 2048,
+      "height": 1365,
+      "bytes": 387204,
+      "sha256": "6dce4d68f0c2f764116b98cfba13dd4a74e25f3702ccb5ca269d07cf775e88c4",
+      "source_url": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=desert%20landscape",
+      "source_type": "Wikimedia Commons",
+      "category": "desert / aerial dunes",
       "filters": [
         "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
+        "photographic",
+        "no visible people",
+        "no cartoon",
+        "no illustration"
+      ],
+      "commons_title": "desert_06_84c7208907e8.jpg"
     },
     {
-      "file": "assets/images/curated/realistic_29_f15a7ccb9bdf74df35eeb711ee47918c.jpg",
+      "file": "assets/images/curated/commons_19_08_1a728339a9b9.jpg",
       "type": "image",
-      "width": 926,
-      "height": 571,
-      "bytes": 67917,
-      "sha256": "d4c1258fbcf7dbd2f146f6a328bd839e6a5340b11cd837793d85fd97b8bfc3a4",
-      "source_url": "https://i.pinimg.com/736x/f1/5a/7c/f15a7ccb9bdf74df35eeb711ee47918c.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
+      "width": 3840,
+      "height": 2550,
+      "bytes": 1142090,
+      "sha256": "6ff094e9a5edc0172e948ef30c20f8d67ee32cd7ab22fde0e49a33868c544bb2",
+      "source_url": "https://commons.wikimedia.org/wiki/Special:MediaSearch?type=image&search=desert%20landscape",
+      "source_type": "Wikimedia Commons",
+      "category": "desert / aerial dunes",
       "filters": [
         "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
+        "photographic",
+        "no visible people",
+        "no cartoon",
+        "no illustration"
+      ],
+      "commons_title": "desert_08_1a728339a9b9.jpg"
     },
     {
-      "file": "assets/images/curated/realistic_30_9e75582e7c46b28a3d34c81460a8aeba.jpg",
+      "file": "assets/images/curated/commons_20_424d5f9f6aae.jpg",
       "type": "image",
-      "width": 735,
-      "height": 490,
-      "bytes": 55369,
-      "sha256": "62bb0c4ed9da912214e868c638bd20fe1751fe8a8054af2dd7d5a2b06738269d",
-      "source_url": "https://i.pinimg.com/736x/9e/75/58/9e75582e7c46b28a3d34c81460a8aeba.jpg",
-      "source_searches": [
-        "realistic nature landscape photography 4k wallpaper 16:9 no people",
-        "mountain lake waterfall nature photography 4k wallpaper 16:9 no people",
-        "coast desert forest landscape photography 4k wallpaper 16:9 no people"
-      ],
+      "width": 3840,
+      "height": 2556,
+      "bytes": 3234784,
+      "sha256": "1d42c171bf80539c249e763264c59b0e893c13eba92cf4a27a566da39b4a99ee",
+      "source_url": "https://thumb.wikimedia.org/wikipedia/commons/thumb/2/29/Checkerboard_forest_in_Idaho.jpg/3840px-Checkerboard_forest_in_Idaho.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=thumbnail",
+      "source_type": "Wikimedia Commons",
+      "category": "forest",
       "filters": [
         "landscape",
-        "photographic/realistic",
-        "no people",
-        "no cartoon"
-      ]
+        "photographic",
+        "no visible people",
+        "no cartoon",
+        "no illustration"
+      ],
+      "commons_title": "File:Checkerboard forest in Idaho.jpg",
+      "query": "forest landscape photography"
     }
   ]
 }

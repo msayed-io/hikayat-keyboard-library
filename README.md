@@ -2,7 +2,7 @@
 
 A production-ready media library for the **Hikayat Keyboard** wallpaper application.
 
-## Source
+## Source and catalog
 
 - Pinterest board: [كيبورد دار الحكايات](https://www.pinterest.com/mohamed01140251843sayed/%D9%83%D9%8A%D8%A8%D9%88%D8%B1%D8%AF-%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D9%83%D8%A7%D9%8A%D8%A7%D8%AA/)
 - Machine-readable catalog: [`metadata/manifest.json`](metadata/manifest.json)
@@ -10,23 +10,28 @@ A production-ready media library for the **Hikayat Keyboard** wallpaper applicat
 
 ## Current curated collection
 
-The previous curated collection containing anime/illustrated material was removed and replaced with **30 new landscape images** selected for this brief:
+The curated collection now contains **50 images** in total. The latest release adds **20 new horizontal landscape images** selected to avoid near-duplicates:
 
-- Realistic-looking nature scenes only: mountains, lakes, rivers, waterfalls, forests, valleys, deserts, coastlines, and sunsets
-- No girls, women, visible people, anime characters, cartoons, or illustrations in the replacement batch
-- Landscape orientation only, minimum aspect ratio **1.45:1**
-- High-resolution CDN variant selected where Pinterest exposed one; minimum downloaded width is **700px**
-- Clear categories are represented in the manifest through the source-search fields and file ordering
+- Coastlines and sea cliffs
+- Forest paths and waterfalls
+- Mountain lakes and alpine valleys
+- Rivers, reflections, and mist
+- Desert dunes and wide open terrain
+- Sunrise, sunset, and blue-hour landscapes
+
+The replacement batch is landscape-only with a minimum aspect ratio of **1.45:1**, minimum downloaded width of **1000px**, and no visible people, girls, women, cartoons, anime characters, or illustrations in the visual review.
+
+Five images were extracted from the user's authenticated Pinterest search results in My Browser. The remaining fifteen are real photographic files from Wikimedia Commons, with exact source URLs and Commons titles retained in the manifest. This mixed provenance was used because Pinterest stopped loading additional search results reliably during the session; no AI image generation was used.
 
 ## Repository layout
 
 ```text
 assets/
   images/            Original board assets
-  images/curated/    30 replacement realistic landscape images
+  images/curated/    50 curated landscape images
   videos/            Reserved for original video files
 metadata/
-  manifest.json      Machine-readable catalog, checksums, and source URLs
+  manifest.json      Machine-readable catalog, checksums, sources, and categories
   pin_ids.txt        Source Pinterest pin IDs
 curated-preview.jpg  Visual preview sheet for the current curated batch
 ```
@@ -41,14 +46,15 @@ https://raw.githubusercontent.com/msayed-io/hikayat-keyboard-library/main/metada
 
 Each image has a SHA-256 checksum so the client can verify a downloaded file before caching it on-device.
 
-## Quality and extraction notes
+## Quality and provenance notes
 
 - The original board assets remain under `assets/images/`.
-- The `assets/images/curated/` directory is the cleaned replacement batch; the former 33-image mixed realistic/anime batch is no longer present there.
-- Pinterest CDN URLs and search provenance are retained in the manifest for auditing.
-- “Realistic” here means a natural photographic/photorealistic visual appearance; Pinterest source provenance should still be reviewed before public redistribution.
+- The `assets/images/curated/` directory contains the cleaned, landscape-only collection.
+- Pinterest CDN URLs, authenticated-search provenance, Wikimedia Commons titles, and source URLs are retained in the manifest for auditing.
+- The Wikimedia files are photographic source files; Pinterest results were visually screened for obvious illustrations, people, and cartoon content, but source licensing and authenticity should still be reviewed before public redistribution.
+- No AI-generated images were created for this release.
 - Original MP4 URLs were not exposed by Pinterest during the earlier board extraction; the `assets/videos/` directory remains ready for authenticated video exports.
 
 ## Usage rights
 
-Confirm that you own or have permission to redistribute every source asset before shipping them in a public application. Pinterest source URLs are retained for attribution and auditing.
+Confirm that you own or have permission to redistribute every source asset before shipping them in a public application. Pinterest and Wikimedia source URLs are retained for attribution and auditing.
