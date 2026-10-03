@@ -1,0 +1,388 @@
+{
+  "library_name": "Hikayat Keyboard Library",
+  "source_board": "https://www.pinterest.com/mohamed01140251843sayed/%D9%83%D9%8A%D8%A8%D9%88%D8%B1%D8%AF-%D8%AF%D8%A7%D8%B1-%D8%A7%D9%84%D8%AD%D9%83%D8%A7%D9%8A%D8%A7%D8%AA/",
+  "source_board_title": "كيبورد دار الحكايات",
+  "board_pin_count": 29,
+  "pin_ids": [
+    "1046664907057282441",
+    "1046664838339532118",
+    "1046664769670935507",
+    "1046664769670935450",
+    "1046664769670935490",
+    "1046664769670935439",
+    "1046664769670935500",
+    "1046664769670935466",
+    "1046664769670935471",
+    "1046664769670935448",
+    "1046664769670805068",
+    "1046664769670935513",
+    "1046664769670935498",
+    "1046664769670805071",
+    "1046664769670935438",
+    "1046664769670935462",
+    "1046664769670935502",
+    "1046664769670935496",
+    "1046664769670935455",
+    "1046664769670935518",
+    "1046664769670935516",
+    "1046664769670805021",
+    "1046664769670805036",
+    "1046664769670935463",
+    "1046664769670935479",
+    "1046664769670935452",
+    "1046664769670935476",
+    "1046664769670935472"
+  ],
+  "assets": [
+    {
+      "asset_id": 1,
+      "file": "assets/images/01_033cb1ef7be969ed4aee4d5bf6e0e2c0.jpg",
+      "type": "image",
+      "bytes": 59603,
+      "sha256": "f90a97837fa8ed4c372efd34fb5a2c49223f16e0e1c10d3e8a9ec7bb0c352edb",
+      "source_url": "https://i.pinimg.com/736x/03/3c/b1/033cb1ef7be969ed4aee4d5bf6e0e2c0.jpg",
+      "source_variants": [
+        "https://i.pinimg.com/736x/03/3c/b1/033cb1ef7be969ed4aee4d5bf6e0e2c0.jpg",
+        "https://i.pinimg.com/236x/03/3c/b1/033cb1ef7be969ed4aee4d5bf6e0e2c0.jpg"
+      ]
+    },
+    {
+      "asset_id": 2,
+      "file": "assets/images/02_13e120e94cbee4ee468bcb16e22ec1d3.jpg",
+      "type": "image",
+      "bytes": 35439,
+      "sha256": "0667870cd4e0344db5af36301a8af5aeca077cb1387d419d6dbfa6b61c9e21f9",
+      "source_url": "https://i.pinimg.com/736x/13/e1/20/13e120e94cbee4ee468bcb16e22ec1d3.jpg",
+      "source_variants": [
+        "https://i.pinimg.com/736x/13/e1/20/13e120e94cbee4ee468bcb16e22ec1d3.jpg",
+        "https://i.pinimg.com/236x/13/e1/20/13e120e94cbee4ee468bcb16e22ec1d3.jpg"
+      ]
+    },
+    {
+      "asset_id": 3,
+      "file": "assets/images/03_2093158969db524ad7e1eb24801e3ec5.jpg",
+      "type": "image",
+      "bytes": 177630,
+      "sha256": "dfeee618a84c32f83f3e8e440435fe63fcc52a520e575ac228ff0bab46aeaba3",
+      "source_url": "https://i.pinimg.com/originals/20/93/15/2093158969db524ad7e1eb24801e3ec5.jpg",
+      "source_variants": [
+        "https://i.pinimg.com/originals/20/93/15/2093158969db524ad7e1eb24801e3ec5.jpg",
+        "https://i.pinimg.com/736x/20/93/15/2093158969db524ad7e1eb24801e3ec5.jpg",
+        "https://i.pinimg.com/474x/20/93/15/2093158969db524ad7e1eb24801e3ec5.jpg",
+        "https://i.pinimg.com/236x/20/93/15/2093158969db524ad7e1eb24801e3ec5.jpg"
+      ]
+    },
+    {
+      "asset_id": 4,
+      "file": "assets/images/04_32e36cbe77c4c518859795eeabf51a73.jpg",
+      "type": "image",
+      "bytes": 63486,
+      "sha256": "3ede72c2facc085afaa2dfdfacaade7a25878704f547c013c197d08914028abf",
+      "source_url": "https://i.pinimg.com/736x/32/e3/6c/32e36cbe77c4c518859795eeabf51a73.jpg",
+      "source_variants": [
+        "https://i.pinimg.com/736x/32/e3/6c/32e36cbe77c4c518859795eeabf51a73.jpg",
+        "https://i.pinimg.com/236x/32/e3/6c/32e36cbe77c4c518859795eeabf51a73.jpg"
+      ]
+    },
+    {
+      "asset_id": 5,
+      "file": "assets/images/05_34ec78ae0ab34927ea8e9cf17c713ba5.jpg",
+      "type": "image",
+      "bytes": 120126,
+      "sha256": "106d0edb2fdc15d1962b998c9cb59c4cc4c054cd1884b21d82269354aa0bf8c7",
+      "source_url": "https://i.pinimg.com/originals/34/ec/78/34ec78ae0ab34927ea8e9cf17c713ba5.jpg",
+      "source_variants": [
+        "https://i.pinimg.com/originals/34/ec/78/34ec78ae0ab34927ea8e9cf17c713ba5.jpg",
+        "https://i.pinimg.com/736x/34/ec/78/34ec78ae0ab34927ea8e9cf17c713ba5.jpg",
+        "https://i.pinimg.com/474x/34/ec/78/34ec78ae0ab34927ea8e9cf17c713ba5.jpg",
+        "https://i.pinimg.com/236x/34/ec/78/34ec78ae0ab34927ea8e9cf17c713ba5.jpg"
+      ]
+    },
+    {
+      "asset_id": 6,
+      "file": "assets/images/06_4381c3a6450073e5b6109614015bc7b3.jpg",
+      "type": "image",
+      "bytes": 516849,
+      "sha256": "c0ddfb1e39cde7effbeb2807ecd220b048f712acc6f821ea36390ad421c5c1ea",
+      "source_url": "https://i.pinimg.com/originals/43/81/c3/4381c3a6450073e5b6109614015bc7b3.jpg",
+      "source_variants": [
+        "https://i.pinimg.com/originals/43/81/c3/4381c3a6450073e5b6109614015bc7b3.jpg",
+        "https://i.pinimg.com/736x/43/81/c3/4381c3a6450073e5b6109614015bc7b3.jpg",
+        "https://i.pinimg.com/474x/43/81/c3/4381c3a6450073e5b6109614015bc7b3.jpg",
+        "https://i.pinimg.com/236x/43/81/c3/4381c3a6450073e5b6109614015bc7b3.jpg"
+      ]
+    },
+    {
+      "asset_id": 7,
+      "file": "assets/images/07_45a9cc046191c7a101872c28fe0aee9d.png",
+      "type": "image",
+      "bytes": 1404421,
+      "sha256": "f95042b331981760c67347f622ff76d0f71a84fe18e970fd59a220dc6ca04390",
+      "source_url": "https://i.pinimg.com/originals/45/a9/cc/45a9cc046191c7a101872c28fe0aee9d.png",
+      "source_variants": [
+        "https://i.pinimg.com/originals/45/a9/cc/45a9cc046191c7a101872c28fe0aee9d.png",
+        "https://i.pinimg.com/736x/45/a9/cc/45a9cc046191c7a101872c28fe0aee9d.jpg",
+        "https://i.pinimg.com/474x/45/a9/cc/45a9cc046191c7a101872c28fe0aee9d.jpg",
+        "https://i.pinimg.com/236x/45/a9/cc/45a9cc046191c7a101872c28fe0aee9d.jpg"
+      ]
+    },
+    {
+      "asset_id": 8,
+      "file": "assets/images/08_6ef5945edcce4f22ce4a67d5ed6de50b.jpg",
+      "type": "image",
+      "bytes": 55931,
+      "sha256": "b9ef0d8df53af1d9cadb40aede6033c528ba3352974dba3fac274fa24c7bcfe6",
+      "source_url": "https://i.pinimg.com/736x/6e/f5/94/6ef5945edcce4f22ce4a67d5ed6de50b.jpg",
+      "source_variants": [
+        "https://i.pinimg.com/736x/6e/f5/94/6ef5945edcce4f22ce4a67d5ed6de50b.jpg",
+        "https://i.pinimg.com/236x/6e/f5/94/6ef5945edcce4f22ce4a67d5ed6de50b.jpg"
+      ]
+    },
+    {
+      "asset_id": 9,
+      "file": "assets/images/09_7232fcc9c89bcf6569c0dc056c80eee9.jpg",
+      "type": "image",
+      "bytes": 63955,
+      "sha256": "c11b17da732fb37c0ade635559698b26e5b662522584b1b46310529cac6ccc61",
+      "source_url": "https://i.pinimg.com/736x/72/32/fc/7232fcc9c89bcf6569c0dc056c80eee9.jpg",
+      "source_variants": [
+        "https://i.pinimg.com/736x/72/32/fc/7232fcc9c89bcf6569c0dc056c80eee9.jpg",
+        "https://i.pinimg.com/236x/72/32/fc/7232fcc9c89bcf6569c0dc056c80eee9.jpg"
+      ]
+    },
+    {
+      "asset_id": 10,
+      "file": "assets/images/10_8211efcc60117bd3edfefffcdbe54723.jpg",
+      "type": "image",
+      "bytes": 60340,
+      "sha256": "e3b8e6655207ab02ee3591e8642502b5feda30e001b8773bdf0e9861770ee091",
+      "source_url": "https://i.pinimg.com/736x/82/11/ef/8211efcc60117bd3edfefffcdbe54723.jpg",
+      "source_variants": [
+        "https://i.pinimg.com/736x/82/11/ef/8211efcc60117bd3edfefffcdbe54723.jpg",
+        "https://i.pinimg.com/236x/82/11/ef/8211efcc60117bd3edfefffcdbe54723.jpg"
+      ]
+    },
+    {
+      "asset_id": 11,
+      "file": "assets/images/11_8314b694a5ff08900d045f3a40b3be7b.jpg",
+      "type": "image",
+      "bytes": 77643,
+      "sha256": "e36cedbe689f05042a7794f120c0d8ba0f835a0edee4ca727eca8fefd56e5a38",
+      "source_url": "https://i.pinimg.com/736x/83/14/b6/8314b694a5ff08900d045f3a40b3be7b.jpg",
+      "source_variants": [
+        "https://i.pinimg.com/736x/83/14/b6/8314b694a5ff08900d045f3a40b3be7b.jpg",
+        "https://i.pinimg.com/236x/83/14/b6/8314b694a5ff08900d045f3a40b3be7b.jpg"
+      ]
+    },
+    {
+      "asset_id": 12,
+      "file": "assets/images/12_89fd0a061af08e1150b93fdab7d5f3ab.jpg",
+      "type": "image",
+      "bytes": 61271,
+      "sha256": "48e3245c671ca8fb0ed5950bafbf0a32991b32aa9d14e4621c323d33812304ea",
+      "source_url": "https://i.pinimg.com/736x/89/fd/0a/89fd0a061af08e1150b93fdab7d5f3ab.jpg",
+      "source_variants": [
+        "https://i.pinimg.com/736x/89/fd/0a/89fd0a061af08e1150b93fdab7d5f3ab.jpg",
+        "https://i.pinimg.com/236x/89/fd/0a/89fd0a061af08e1150b93fdab7d5f3ab.jpg"
+      ]
+    },
+    {
+      "asset_id": 13,
+      "file": "assets/images/13_8b0a230801c2664ef3d7308507719bd2.jpg",
+      "type": "image",
+      "bytes": 227414,
+      "sha256": "c398b8099b3287f9803d3a552c9fb06e8da173fb8956b68df0bfdaca4f62ad20",
+      "source_url": "https://i.pinimg.com/originals/8b/0a/23/8b0a230801c2664ef3d7308507719bd2.jpg",
+      "source_variants": [
+        "https://i.pinimg.com/originals/8b/0a/23/8b0a230801c2664ef3d7308507719bd2.jpg",
+        "https://i.pinimg.com/736x/8b/0a/23/8b0a230801c2664ef3d7308507719bd2.jpg",
+        "https://i.pinimg.com/474x/8b/0a/23/8b0a230801c2664ef3d7308507719bd2.jpg",
+        "https://i.pinimg.com/236x/8b/0a/23/8b0a230801c2664ef3d7308507719bd2.jpg"
+      ]
+    },
+    {
+      "asset_id": 14,
+      "file": "assets/images/14_8c32f07127212bc290cb8c1d61b92314.jpg",
+      "type": "image",
+      "bytes": 21118,
+      "sha256": "bfc6073788705b2e210f40b91cbb89236356b8b668b275b6124c8996d656a623",
+      "source_url": "https://i.pinimg.com/736x/8c/32/f0/8c32f07127212bc290cb8c1d61b92314.jpg",
+      "source_variants": [
+        "https://i.pinimg.com/736x/8c/32/f0/8c32f07127212bc290cb8c1d61b92314.jpg",
+        "https://i.pinimg.com/474x/8c/32/f0/8c32f07127212bc290cb8c1d61b92314.jpg",
+        "https://i.pinimg.com/236x/8c/32/f0/8c32f07127212bc290cb8c1d61b92314.jpg"
+      ]
+    },
+    {
+      "asset_id": 15,
+      "file": "assets/images/15_98ffd485ee79049f7622286b090cfb99.jpg",
+      "type": "image",
+      "bytes": 62723,
+      "sha256": "c17ce20ab4208371c37e2c0b61220aac0d45dfccb3047d053d3a5f9aeba53c9c",
+      "source_url": "https://i.pinimg.com/originals/98/ff/d4/98ffd485ee79049f7622286b090cfb99.jpg",
+      "source_variants": [
+        "https://i.pinimg.com/originals/98/ff/d4/98ffd485ee79049f7622286b090cfb99.jpg",
+        "https://i.pinimg.com/736x/98/ff/d4/98ffd485ee79049f7622286b090cfb99.jpg",
+        "https://i.pinimg.com/474x/98/ff/d4/98ffd485ee79049f7622286b090cfb99.jpg",
+        "https://i.pinimg.com/236x/98/ff/d4/98ffd485ee79049f7622286b090cfb99.jpg"
+      ]
+    },
+    {
+      "asset_id": 16,
+      "file": "assets/images/16_b1b9c230143fb0d8540eabe5b74adf27.jpg",
+      "type": "image",
+      "bytes": 99545,
+      "sha256": "8e6036b42e4d2db11a0040da4d67bed61021cd47f1ade513d36bd5130ee30547",
+      "source_url": "https://i.pinimg.com/originals/b1/b9/c2/b1b9c230143fb0d8540eabe5b74adf27.jpg",
+      "source_variants": [
+        "https://i.pinimg.com/originals/b1/b9/c2/b1b9c230143fb0d8540eabe5b74adf27.jpg",
+        "https://i.pinimg.com/736x/b1/b9/c2/b1b9c230143fb0d8540eabe5b74adf27.jpg",
+        "https://i.pinimg.com/474x/b1/b9/c2/b1b9c230143fb0d8540eabe5b74adf27.jpg",
+        "https://i.pinimg.com/236x/b1/b9/c2/b1b9c230143fb0d8540eabe5b74adf27.jpg"
+      ]
+    },
+    {
+      "asset_id": 17,
+      "file": "assets/images/17_b35992b2a27747e9beb50a352c189db3.jpg",
+      "type": "image",
+      "bytes": 65798,
+      "sha256": "c6ca8efe71552fe7d855c32b4b1e84a52bc8c30fc8752fbe0183762d0ea78db9",
+      "source_url": "https://i.pinimg.com/736x/b3/59/92/b35992b2a27747e9beb50a352c189db3.jpg",
+      "source_variants": [
+        "https://i.pinimg.com/736x/b3/59/92/b35992b2a27747e9beb50a352c189db3.jpg",
+        "https://i.pinimg.com/236x/b3/59/92/b35992b2a27747e9beb50a352c189db3.jpg"
+      ]
+    },
+    {
+      "asset_id": 18,
+      "file": "assets/images/18_b4cf9ec611cc7d04c51dc8c469f61882.jpg",
+      "type": "image",
+      "bytes": 27949,
+      "sha256": "4bda77a82a5f457729dcaafb7ec1d519bbe311c9bb8f52276a6a7e11df3f1804",
+      "source_url": "https://i.pinimg.com/474x/b4/cf/9e/b4cf9ec611cc7d04c51dc8c469f61882.jpg",
+      "source_variants": [
+        "https://i.pinimg.com/474x/b4/cf/9e/b4cf9ec611cc7d04c51dc8c469f61882.jpg"
+      ]
+    },
+    {
+      "asset_id": 19,
+      "file": "assets/images/19_b83847884a9e297468831ab34ff604d7.jpg",
+      "type": "image",
+      "bytes": 50738,
+      "sha256": "5a9320b3b33dd0c0adfa5dacc4312b13f415e236a5e67c244805e00becffe29b",
+      "source_url": "https://i.pinimg.com/736x/b8/38/47/b83847884a9e297468831ab34ff604d7.jpg",
+      "source_variants": [
+        "https://i.pinimg.com/736x/b8/38/47/b83847884a9e297468831ab34ff604d7.jpg",
+        "https://i.pinimg.com/236x/b8/38/47/b83847884a9e297468831ab34ff604d7.jpg"
+      ]
+    },
+    {
+      "asset_id": 20,
+      "file": "assets/images/20_b8a153902f32f871bb8230e70bd07a8b.png",
+      "type": "image",
+      "bytes": 2189954,
+      "sha256": "2deb396a40d8fc02e6621a78c27afe2465e4606905f4a52d175aef2b2175ed17",
+      "source_url": "https://i.pinimg.com/originals/b8/a1/53/b8a153902f32f871bb8230e70bd07a8b.png",
+      "source_variants": [
+        "https://i.pinimg.com/originals/b8/a1/53/b8a153902f32f871bb8230e70bd07a8b.png",
+        "https://i.pinimg.com/736x/b8/a1/53/b8a153902f32f871bb8230e70bd07a8b.jpg",
+        "https://i.pinimg.com/474x/b8/a1/53/b8a153902f32f871bb8230e70bd07a8b.jpg",
+        "https://i.pinimg.com/236x/b8/a1/53/b8a153902f32f871bb8230e70bd07a8b.jpg"
+      ]
+    },
+    {
+      "asset_id": 21,
+      "file": "assets/images/21_deb70ac041a98f111010d029f8b4d2e2.jpg",
+      "type": "image",
+      "bytes": 32068,
+      "sha256": "9c83ace33eee9196ae674330fe8ded2f29b679454a26349f22a69fa2ca65464b",
+      "source_url": "https://i.pinimg.com/736x/de/b7/0a/deb70ac041a98f111010d029f8b4d2e2.jpg",
+      "source_variants": [
+        "https://i.pinimg.com/736x/de/b7/0a/deb70ac041a98f111010d029f8b4d2e2.jpg",
+        "https://i.pinimg.com/236x/de/b7/0a/deb70ac041a98f111010d029f8b4d2e2.jpg"
+      ]
+    },
+    {
+      "asset_id": 22,
+      "file": "assets/images/22_e79b8a992ce5ee4b670a844542ae6d81.jpg",
+      "type": "image",
+      "bytes": 34489,
+      "sha256": "04d144b204ad0cdd5ee4417f19046ffbd02d1e860878218fa7894c697705b439",
+      "source_url": "https://i.pinimg.com/736x/e7/9b/8a/e79b8a992ce5ee4b670a844542ae6d81.jpg",
+      "source_variants": [
+        "https://i.pinimg.com/736x/e7/9b/8a/e79b8a992ce5ee4b670a844542ae6d81.jpg",
+        "https://i.pinimg.com/236x/e7/9b/8a/e79b8a992ce5ee4b670a844542ae6d81.jpg"
+      ]
+    },
+    {
+      "asset_id": 23,
+      "file": "assets/images/23_e9f01157572b84ff83ca3089a8109609.jpg",
+      "type": "image",
+      "bytes": 51735,
+      "sha256": "6d2cba7c5d129c3996e7a1575a3522ee09ebceede6b995f3e18baee4030e427d",
+      "source_url": "https://i.pinimg.com/736x/e9/f0/11/e9f01157572b84ff83ca3089a8109609.jpg",
+      "source_variants": [
+        "https://i.pinimg.com/736x/e9/f0/11/e9f01157572b84ff83ca3089a8109609.jpg",
+        "https://i.pinimg.com/236x/e9/f0/11/e9f01157572b84ff83ca3089a8109609.jpg"
+      ]
+    },
+    {
+      "asset_id": 24,
+      "file": "assets/images/24_eb8cf7eb528a6ddf3351f4a35ba4a4eb.jpg",
+      "type": "image",
+      "bytes": 33543,
+      "sha256": "b52feb1bfab30b7b69a1c6344b8e9eefb837a4c2515fe3daf4aba0034dc7735e",
+      "source_url": "https://i.pinimg.com/736x/eb/8c/f7/eb8cf7eb528a6ddf3351f4a35ba4a4eb.jpg",
+      "source_variants": [
+        "https://i.pinimg.com/736x/eb/8c/f7/eb8cf7eb528a6ddf3351f4a35ba4a4eb.jpg",
+        "https://i.pinimg.com/474x/eb/8c/f7/eb8cf7eb528a6ddf3351f4a35ba4a4eb.jpg",
+        "https://i.pinimg.com/236x/eb/8c/f7/eb8cf7eb528a6ddf3351f4a35ba4a4eb.jpg"
+      ]
+    },
+    {
+      "asset_id": 25,
+      "file": "assets/images/25_f1bca4b682a87a325a0683f3169f4749.jpg",
+      "type": "image",
+      "bytes": 23462,
+      "sha256": "e08b76337ffb7f05ae452a17357c349314c50fb630d649c217014a581360af39",
+      "source_url": "https://i.pinimg.com/736x/f1/bc/a4/f1bca4b682a87a325a0683f3169f4749.jpg",
+      "source_variants": [
+        "https://i.pinimg.com/736x/f1/bc/a4/f1bca4b682a87a325a0683f3169f4749.jpg",
+        "https://i.pinimg.com/236x/f1/bc/a4/f1bca4b682a87a325a0683f3169f4749.jpg"
+      ]
+    },
+    {
+      "asset_id": 26,
+      "file": "assets/images/26_f484d3c2ca1197f717d2ca81c1b806ad.jpg",
+      "type": "image",
+      "bytes": 61705,
+      "sha256": "b2236aebaeb9e10ed429808751c2c7171d9b0d34b68f877cabde6d67fd63bbd4",
+      "source_url": "https://i.pinimg.com/originals/f4/84/d3/f484d3c2ca1197f717d2ca81c1b806ad.jpg",
+      "source_variants": [
+        "https://i.pinimg.com/originals/f4/84/d3/f484d3c2ca1197f717d2ca81c1b806ad.jpg",
+        "https://i.pinimg.com/736x/f4/84/d3/f484d3c2ca1197f717d2ca81c1b806ad.jpg",
+        "https://i.pinimg.com/474x/f4/84/d3/f484d3c2ca1197f717d2ca81c1b806ad.jpg",
+        "https://i.pinimg.com/236x/f4/84/d3/f484d3c2ca1197f717d2ca81c1b806ad.jpg"
+      ]
+    },
+    {
+      "asset_id": 27,
+      "file": "assets/images/27_fbfa04aa4bb12d0f9a6acd60dd9dd76f.png",
+      "type": "image",
+      "bytes": 2300231,
+      "sha256": "c12e9a4e14ee833388838a227f3c9ca0db471c6584d08a164af62e49d20190e3",
+      "source_url": "https://i.pinimg.com/originals/fb/fa/04/fbfa04aa4bb12d0f9a6acd60dd9dd76f.png",
+      "source_variants": [
+        "https://i.pinimg.com/originals/fb/fa/04/fbfa04aa4bb12d0f9a6acd60dd9dd76f.png",
+        "https://i.pinimg.com/736x/fb/fa/04/fbfa04aa4bb12d0f9a6acd60dd9dd76f.jpg",
+        "https://i.pinimg.com/474x/fb/fa/04/fbfa04aa4bb12d0f9a6acd60dd9dd76f.jpg",
+        "https://i.pinimg.com/236x/fb/fa/04/fbfa04aa4bb12d0f9a6acd60dd9dd76f.jpg"
+      ]
+    }
+  ],
+  "video_extraction": {
+    "status": "not_available_from_board_html",
+    "details": "Pinterest exposed poster/image CDN URLs in the authenticated board HTML, but did not expose downloadable MP4 URLs. The original pin URLs and poster assets are preserved for a later authenticated video export.",
+    "video_directory": "assets/videos/"
+  }
+}
